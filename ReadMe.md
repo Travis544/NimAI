@@ -1,5 +1,6 @@
 
 This is an AI written Python that teaches itself to play Nim through reinforcement learning.
+
 How Nim works: http://pi.math.cornell.edu/~mec/2003-2004/graphtheory/nim/howtoplaynim.html
 
 Run python play.py.
